@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm esteban chacon bueno</h1>
-<h3 align="center">cybersecurity and back end developer in progress, in constantly learning, i expect to be a great developer that can do and give the best solves to many problems from my company, i expect work with many other people and in a near future manage and leader a work team.</h3>
+<h3 align="center">cybersecurity and backend developer in progress, in constantly learning, i expect to be a great developer that can do and give the best solves to many problems from my company, i expect work with many other people and in a near future manage and leader a work team.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=norik-24&label=Profile%20views&color=0e75b6&style=flat" alt="norik-24" /> </p>
 
